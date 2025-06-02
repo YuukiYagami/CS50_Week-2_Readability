@@ -1,4 +1,4 @@
-# CS50_Week-2_-Readability
+# CS50_Week-2_Readability
 
 Calculate readability from Harvard CS50. 
 
