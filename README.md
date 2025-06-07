@@ -1,6 +1,7 @@
 # CS50_Week-2_Readability
 
-Calculate readability from Harvard CS50. 
+Calculate readability from Harvard CS50
+________________________________________
 
 The following code implements a program that calculates the approximate grade level needed to comprehend some text. The program prints output “Grade X” where “X” is the grade level computed, rounded to the nearest integer. If the grade level is 16 or higher (equivalent to or greater than a senior undergraduate reading level), the program outputs “Grade 16+” instead of giving the exact index number. If the grade level is less than 1, the program outputs “Before Grade 1”.
 
